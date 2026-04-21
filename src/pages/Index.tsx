@@ -61,11 +61,11 @@ const builds = [
       { name: "Охлаждение", value: "Кастомная СЖО 240 мм" },
     ],
     fps: [
-      { game: "CS2 (1440p высокие)", fps: 250, max: 300 },
-      { game: "GTA V (1440p ultra)", fps: 110, max: 120 },
-      { game: "Cyberpunk 2077 (1440p high)", fps: 80, max: 120 },
-      { game: "Fortnite (1440p эпик)", fps: 140, max: 200 },
-      { game: "Red Dead Redemption 2", fps: 90, max: 120 },
+      { game: "CS2 (1440p высокие)", fps: 180, max: 300 },
+      { game: "GTA V (1440p ultra)", fps: 75, max: 120 },
+      { game: "Cyberpunk 2077 (1440p high)", fps: 55, max: 120 },
+      { game: "Fortnite (1440p эпик)", fps: 110, max: 200 },
+      { game: "Red Dead Redemption 2 (1440p)", fps: 65, max: 120 },
     ],
     reviews: [
       { author: "Николай", stars: 5, text: "RTX 3070 отлично тянет всё в 1440p. Cyberpunk на высоких настройках идёт стабильно, без просадок. За свои деньги — отличный выбор." },
