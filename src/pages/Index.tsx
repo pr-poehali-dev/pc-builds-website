@@ -53,7 +53,7 @@ const builds = [
     desc: "Мощная рабочая лошадка для игр в 1440p, монтажа видео и стриминга.",
     components: [
       { name: "Процессор", value: "Intel Core i5-13600K (14 ядер / 20 потоков)" },
-      { name: "Видеокарта", value: "RTX 4070 12 ГБ" },
+      { name: "Видеокарта", value: "RTX 3070 8 ГБ" },
       { name: "ОЗУ", value: "32 ГБ DDR5 5200 МГц" },
       { name: "Накопитель", value: "SSD 1 ТБ NVMe Gen4" },
       { name: "Материнская плата", value: "Z790 (ATX)" },
@@ -75,8 +75,8 @@ const builds = [
     links: [
       { label: "Intel Core i5-13600K — DNS", url: "https://www.dns-shop.ru/search/?q=Intel+Core+i5-13600K" },
       { label: "Intel Core i5-13600K — Citilink", url: "https://www.citilink.ru/search/?text=Intel+Core+i5-13600K" },
-      { label: "RTX 4070 12GB — DNS", url: "https://www.dns-shop.ru/search/?q=RTX+4070+12gb" },
-      { label: "RTX 4070 12GB — Citilink", url: "https://www.citilink.ru/search/?text=RTX+4070+12gb" },
+      { label: "RTX 3070 8GB — DNS", url: "https://www.dns-shop.ru/search/?q=RTX+3070+8gb" },
+      { label: "RTX 3070 8GB — Citilink", url: "https://www.citilink.ru/search/?text=RTX+3070+8gb" },
       { label: "32 ГБ DDR5 5200 — DNS", url: "https://www.dns-shop.ru/search/?q=DDR5+5200+32gb" },
       { label: "SSD 1 ТБ NVMe Gen4 — DNS", url: "https://www.dns-shop.ru/search/?q=SSD+1tb+NVMe+Gen4" },
       { label: "Z790 материнская плата — DNS", url: "https://www.dns-shop.ru/search/?q=Z790+материнская+плата" },
