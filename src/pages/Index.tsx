@@ -153,11 +153,11 @@ const faqItems = [
 
 const compareRows = [
   { label: "Процессор", budget: "Ryzen 5 5600", mid: "i5-13600K", high: "Ryzen 9 7950X" },
-  { label: "Видеокарта", budget: "RX 6600", mid: "RTX 4070", high: "RTX 4090" },
+  { label: "Видеокарта", budget: "RX 6600", mid: "RTX 3070", high: "RTX 4090" },
   { label: "ОЗУ", budget: "16 ГБ DDR4", mid: "32 ГБ DDR5", high: "64 ГБ DDR5" },
   { label: "Накопитель", budget: "512 ГБ NVMe", mid: "1 ТБ Gen4", high: "2×2 ТБ Gen5" },
-  { label: "FPS CS2", budget: "140 fps / 1080p", mid: "250 fps / 1440p", high: "280 fps / 4K" },
-  { label: "FPS Cyberpunk 2077", budget: "50 fps Low", mid: "80 fps High", high: "75 fps 4K+RT" },
+  { label: "FPS CS2", budget: "140 fps / 1080p", mid: "180 fps / 1440p", high: "280 fps / 4K" },
+  { label: "FPS Cyberpunk 2077", budget: "50 fps Low", mid: "55 fps High", high: "75 fps 4K+RT" },
   { label: "Цена", budget: "35 000 ₽", mid: "75 000 ₽", high: "180 000 ₽" },
   { label: "Для кого", budget: "Учёба / Офис", mid: "Игры / Монтаж", high: "4K / Рендер" },
 ];
